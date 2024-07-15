@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm BushraYousaf</h1>
+<h1 align="center" style=" color: #007acc;">Hi 👋, I'm BushraYousaf</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bush1122&label=Profile%20views&color=0e75b6&style=flat" alt="bush1122" /> </p>
 
-- 🌱 I’m currently learning *React.js*
+<h4> About us</h4>
+    <p>I'm Bushra Yousaf, a dedicated React Developer holding a Bachelor's degree in Computer Science. My passion lies in crafting engaging and interactive web experiences. I have 
+    experience in product design and adding to cart functionalities using Redux and Context API.</p>
 
-- 📫 How to reach me *smileforbushi@gmail.com*
+
+<h4>Experience </h4>
+   <p><strong>Internship at Ezitech</strong> (March 2024 - July 2024)</p>
+                <ul style="padding-left: 20px;">
+                    <li> 🌱 Worked on product design and implementation of an add-to-cart feature</li>
+                    <li> 🌱Utilized Redux and Context API for state management and data flow</li>
+                    <li> 🌱Collaborated with team members to ensure seamless integration of features</li>
+                    <li>🌱 I’m currently learning *React.js*</li>
+                </ul>
+
+ - 📫 How to reach me <a href="mailto:smileforbushi@gmail.com">smileforbushi@gmail.com</a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
