@@ -9,14 +9,14 @@
     experience in product design and adding to cart functionalities using Redux and Context API.</p>
 
 
-<h4>Experience </h4>
-   <p><strong>Internship at Ezitech</strong> (March 2024 - July 2024)</p>
-                <ul style="padding-left: 20px;">
-                    <li> 🌱 Worked on product design and implementation of an add-to-cart feature</li>
-                    <li> 🌱Utilized Redux and Context API for state management and data flow</li>
-                    <li> 🌱Collaborated with team members to ensure seamless integration of features</li>
-                    <li>🌱 I’m currently learning *React.js*</li>
-                </ul>
+<h4>Experience</h4>
+<p><strong>Internship at Ezitech</strong> (March 2024 - July 2024) 🏢</p>
+<ul style="padding-left: 20px;">
+    <li>🚀 Worked on product design and implementation of an add-to-cart feature</li>
+    <li>💡 Utilized Redux and Context API for state management and data flow</li>
+    <li>🤝 Collaborated with team members to ensure seamless integration of features</li>
+    <li>📚 I’m currently learning <strong>React.js</strong></li>
+</ul>
 
  - 📫 How to reach me <a href="mailto:smileforbushi@gmail.com">smileforbushi@gmail.com</a>
 
