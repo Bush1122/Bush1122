@@ -36,7 +36,7 @@
     <td style="padding: 10px; text-align: center;">
       <a href="https://getbootstrap.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/>
-        <br/>Bootstrap
+        <br/> <h5> Bootstrap </h5>
       </a>
     </td>
     <td style="padding: 10px; text-align: center;">
