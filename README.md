@@ -1,13 +1,11 @@
-<h1 align="center" style=" color: #007acc;">Hi 👋, I'm BushraYousaf</h1>
+<h1 align="center" style=" color: #007acc;">Hi 👋, I'm Bushra Yousaf</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bush1122&label=Profile%20views&color=0e75b6&style=flat" alt="bush1122" /> </p>
 
-<h4> About us</h4>
-    <p>I'm Bushra Yousaf, a dedicated React Developer holding a Bachelor's degree in Computer Science. My passion lies in crafting engaging and interactive web experiences. I have 
-    experience in product design and adding to cart functionalities using Redux and Context API.</p>
-
+<h4>About me</h4>
+<p>I'm Bushra Yousaf, a dedicated React Developer holding a Bachelor's degree in Computer Science. My passion lies in crafting engaging and interactive web experiences. I have experience in product design and adding to cart functionalities using Redux and Context API.</p>
 
 <h4>Experience</h4>
 <p><strong>Internship at Ezitech</strong> (March 2024 - July 2024) 🏢</p>
@@ -18,9 +16,7 @@
     <li>📚 I’m currently learning <strong>React.js</strong></li>
 </ul>
 
- - 📫 How to reach me <a href="mailto:smileforbushi@gmail.com">smileforbushi@gmail.com</a>
-
-
+- 📫 How to reach me <a href="mailto:smileforbushi@gmail.com">smileforbushi@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,6 +63,34 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
         <br/>CSS
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="70" height="70"/>
+        <br/>Tailwind CSS
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
+        <br/>MongoDB
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
+        <br/>Express.js
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+        <br/>Node.js
       </a>
     </td>
   </tr>
