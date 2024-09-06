@@ -105,7 +105,7 @@
 
 
 
-<table style="border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding-left: 100px; ">
+<table style="border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding-left: 100px;text:center ">
   <tr>
     <td style="padding: 10px; text-align: center;">
       <a href="https://reactjs.org/" target="_blank">
