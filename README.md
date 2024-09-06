@@ -31,7 +31,7 @@
     <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1 ,padding: 10px); margin: 0 auto;">
   <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 0 auto;">
     <tr>
-      <td style="padding: 10px; text-align: center;">
+      <td style="padding: 50px; text-align: center;">
         <a href="https://reactjs.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
           <h5 style="color: #61DAFB;">React</h5>
