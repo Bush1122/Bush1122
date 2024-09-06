@@ -28,8 +28,7 @@
 
 
 <div style="text-align: center;" padding: 10px>
-    
-    <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)>
+    <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1 ,padding: 10px); margin: 0 auto;">
   <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 0 auto;">
     <tr>
       <td style="padding: 10px; text-align: center;">
