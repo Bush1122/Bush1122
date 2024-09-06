@@ -27,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="text-align: center; padding: 40px;">
-    <table style="border: 10px double #333; border-radius: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 10 auto;">
+    <table style="border: 10px double #333; border-radius: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 10px 40px;">
         <tr>
             <td style="padding: 10px; text-align: center;">
                 <a href="https://reactjs.org/" target="_blank">
