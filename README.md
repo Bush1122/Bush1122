@@ -27,10 +27,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<div style="text-align: center; padding: 10px;">
-    <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 0 auto;">
+<div style="text-align: center; padding: 40px;">
+    <table style="border: 10px double #333; border-radius: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 0 auto;">
         <tr>
-            <td style="padding: 50px; text-align: center;">
+            <td style="padding: 10px; text-align: center;">
                 <a href="https://reactjs.org/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
                     <h5 style="color: #61DAFB;">React</h5>
