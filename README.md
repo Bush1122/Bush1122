@@ -1,5 +1,5 @@
 <h1 align="center" style=" color: #007acc;">Hi 👋, I'm Bushra Yousaf</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Mern Stack Developer  from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bush1122&label=Profile%20views&color=0e75b6&style=flat" alt="bush1122" /> </p>
@@ -32,7 +32,7 @@
             <td style="padding: 10px; text-align: center;">
                 <a href="https://reactjs.org/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/>
-                    <h5 style="color: #61DAFB;">React</h5>
+                 
                 </a>
             </td>
             <td style="padding: 10px; text-align: center;">
