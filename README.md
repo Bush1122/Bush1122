@@ -27,80 +27,79 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<div style="text-align: center;" padding: 10px>
-    <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1 ,padding: 10px); margin: 0 auto;">
-  <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 0 auto;">
-    <tr>
-      <td style="padding: 50px; text-align: center;">
-        <a href="https://reactjs.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-          <h5 style="color: #61DAFB; padding: 50px">React</h5>
-        </a>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://github.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="70" height="70"/>
-          <h5 style="color: #333;">GitHub</h5>
-        </a>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-          <h5 style="color: #F0DB4F;">JavaScript</h5>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://redux.js.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
-          <h5 style="color: #764ABC;">Redux</h5>
-        </a>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
-          <h5 style="color: #E34C26;">HTML</h5>
-        </a>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
-          <h5 style="color: #1572B6;">CSS</h5>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="70" height="70"/>
-          <h5 style="color: #06B6D4;">Tailwind CSS</h5>
-        </a>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://www.mongodb.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
-          <h5 style="color: #47A248;">MongoDB</h5>
-        </a>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://expressjs.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
-          <h5 style="color: #000;">Express.js</h5>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://nodejs.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
-          <h5 style="color: #43853D;">Node.js</h5>
-        </a>
-      </td>
-    </tr>
-  </table>
-</table>
+<div style="text-align: center; padding: 10px;">
+    <table style="border: 5px double #333; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 0 auto;">
+        <tr>
+            <td style="padding: 50px; text-align: center;">
+                <a href="https://reactjs.org/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
+                    <h5 style="color: #61DAFB;">React</h5>
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://github.com/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="70" height="70"/>
+                    <h5 style="color: #333;">GitHub</h5>
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
+                    <h5 style="color: #F0DB4F;">JavaScript</h5>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://redux.js.org/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
+                    <h5 style="color: #764ABC;">Redux</h5>
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
+                    <h5 style="color: #E34C26;">HTML</h5>
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
+                    <h5 style="color: #1572B6;">CSS</h5>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://tailwindcss.com/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="70" height="70"/>
+                    <h5 style="color: #06B6D4;">Tailwind CSS</h5>
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://www.mongodb.com/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
+                    <h5 style="color: #47A248;">MongoDB</h5>
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://expressjs.com/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
+                    <h5 style="color: #000;">Express.js</h5>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align: center;">
+                <a href="https://nodejs.org/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+                    <h5 style="color: #43853D;">Node.js</h5>
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bush1122&show_icons=true&locale=en&layout=compact" alt="bush1122" /></p>
