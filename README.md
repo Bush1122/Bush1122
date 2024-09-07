@@ -10,6 +10,14 @@
 <p>I’m Bushra Yousaf, a dedicated React Developer with a Bachelor's degree in Computer Science, passionate about crafting engaging and interactive web experiences. With experience in product design and adding to cart functionalities using Redux and Context API, I also have a strong foundation in backend development, including Express.js for building RESTful APIs, integrating with databases like MongoDB, and implementing authentication and user management systems. This combination of frontend and backend expertise allows me to develop full-stack web applications that are both user-friendly and robust.</p>
 
 <h4>Experience</h4>
+
+<p><strong>Frontend Developer Internship at Horizon Software Solution</strong> (November 2022 - January 2023) 🏢</p>
+<ul style="padding-left: 20px;">
+    <li>🔧 Worked on simple projects using HTML, CSS, and JavaScript</li>
+    <li>🎨 Developed basic web interfaces and ensured cross-browser compatibility</li>
+    <li>💡 Focused on learning frontend development fundamentals and best practices</li>
+</ul>
+
 <p><strong>Frontend Developer Internship at Ezitech</strong> (March 2024 - July 2024) 🏢</p>
 <ul style="padding-left: 20px;">
     <li>🚀 Worked on product design and implementation of an add-to-cart feature using React.js</li>
