@@ -114,6 +114,12 @@
                     <h5 style="color: #43853D;">Node.js</h5>
                 </a>
             </td>
+          <td style="padding: 10px; text-align: center;">
+        <a href="https://www.postman.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="100" height="100"/>
+            <h5 style="color: #FF6C37;">Postman</h5>
+        </a>
+    </td>
         </tr>
     </table>
 </div>
