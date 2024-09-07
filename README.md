@@ -84,7 +84,12 @@
             </td>
         </tr>
         <tr>
-            </td>
+      <td style="padding: 10px; text-align: center;">
+        <a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
+            <h5 style="color: #7952B3;">Bootstrap</h5>
+        </a>
+    </td>
            <td style="padding: 10px; text-align: center;">
                 <a href="https://tailwindcss.com/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="100" height="100"/>
