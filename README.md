@@ -47,6 +47,18 @@
 <div style="text-align: center; padding: 40px;">
     <table style="border: 10px double #333; border-radius: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: 10px 40px;">
         <tr>
+           <td style="padding: 10px; text-align: center;">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
+                    <h5 style="color: #E34C26;">HTML</h5>
+                </a>
+           </td>
+           <td style="padding: 10px; text-align: center;">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
+                    <h5 style="color: #1572B6;">CSS</h5>
+                </a>
+            </td>
             <td style="padding: 10px; text-align: center;">
                 <a href="https://reactjs.org/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/>
@@ -72,17 +84,6 @@
             </td>
         </tr>
         <tr>
-            <td style="padding: 10px; text-align: center;">
-                <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
-                    <h5 style="color: #E34C26;">HTML</h5>
-                </a>
-            </td>
-            <td style="padding: 10px; text-align: center;">
-                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
-                    <h5 style="color: #1572B6;">CSS</h5>
-                </a>
             </td>
            <td style="padding: 10px; text-align: center;">
                 <a href="https://tailwindcss.com/" target="_blank">
