@@ -90,9 +90,10 @@
             <h5 style="color: #7952B3;">Bootstrap</h5>
         </a>
     </td>
-           <td style="padding: 10px; text-align: center;">
+           
+<td style="padding: 10px; text-align: center;">
     <a href="https://tailwindcss.com/" target="_blank">
-        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8ZyBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIvPgogIDxwYXRoIGQ9Ik01MS42IDQuMCAxNi4yIDM4LjEgMTYuMiAzNy4xIDE1LjIgMzEuMCAxMy4yIDEwLjQgMTAgMTIuMyA4LjIgMTEuNiAxMC4yIDE1LjIgMTguOSAxMy4xIDEwLjMgMjYuMyAxNC42IDE0LjIgMTkuMiAxMy4xIDE5LjIgMTMuMyAyMy43IDE5LjggMTEuNiA2LjYgNy44IDIyLjMgMTQuMyA2LjcgMTUuNiAzNy4xIDcuNyAzNy4xIDIuMyAxMy41IDE2LjIgMjcuNyAzMy4xIDE1LjIgMTQuMyA3LjYgMTQuMyAxMi42IDQ0LjkxMzkgMTAuMyAxMC4yIDI3LjcgMTcuMiwxNi4yIDI1LjIgMzQuOSAxNy43IDIyLjIgMTkuMiAxMi44IDExLjIgMTcuNyA2LjEgMTcuNiA2LjMgMTEuMyA1LjIgMTEuNiAyMC4xIDI4LjMgMjAuMyAxMi42IDMuNiA2LjEgMTcuNiAxMy4zIDIyLjQgMjcuNyAyMy43IDIyLjcgMTkuMyAyMS43IDE4LjIgMjcuNyAxMi43IDIwLjIgMy4zIDIxLjkgMjMuMiAxMi42IDIxLjYgMzIuOCAxMi4zIDE1LjIgNTMuOCAyMS42IDguOCA1My4zIDI0LjIgMTYuOCAxNi4yIDAsMTcuMyA2LjUgMTYuOCAxOC4zIDcuOCAxMi43IDE1LjMgMTYuMiAxMy43IDIyLjIgMTEuMyAxNy4yIDYuMyAxNy4yIDMuOCAxNi4yIDIzLjUgMjMuMiAxMC4yIDIuOSAxNy4yIDE4LjIgMzAuOCAxNy4yIHR5cmUgMTcuMiAxNi4yIDIyLjIgMTguOSAxOC4yIDkuMyA1LjIgMTQuMyA1LjIgNiwzMy4xIDQuNyAxNS42IDQ2LjkxMTkgMTUuNiAxMi4yIDExLjMgNy4xIDE1LjIgMzAuMiAyMi4yIDEwLjIgMTAuNyAxMS4yIDExLjUgMTMuMiAxNi4yIDYuNiwxNi4yIDQuNyAxMi4zIDE4LjIgMjQuMyAzMC4zIDE1LjIuNTYuOC42IiBzdHJva2Utb3BhY2l0eT0ibm9uZSIgc3Ryb2tlLWxpbmVjYXI9InJvdW5kIi8+Cjwvc3ZnPgo=" alt="tailwindcss" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="100" height="100"/>
         <h5 style="color: #06B6D4;">Tailwind CSS</h5>
     </a>
 </td>
