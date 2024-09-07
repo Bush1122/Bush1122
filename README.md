@@ -51,7 +51,7 @@
                 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
                 </a>
-             <h5 style="color: #1572B6;">CSS</h5>
+             <h5 style="color: #1572B6;text-align: center; ">CSS</h5>
            </td>
            <td style="padding: 10px; text-align: center;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
