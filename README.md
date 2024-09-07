@@ -64,14 +64,14 @@
                     <h5 style="color: #F0DB4F;">JavaScript</h5>
                 </a>
             </td>
-        </tr>
-        <tr>
-            <td style="padding: 10px; text-align: center;">
+           <td style="padding: 10px; text-align: center;">
                 <a href="https://redux.js.org/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="100" height="100"/>
                     <h5 style="color: #764ABC;">Redux</h5>
                 </a>
             </td>
+        </tr>
+        <tr>
             <td style="padding: 10px; text-align: center;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
@@ -84,15 +84,15 @@
                     <h5 style="color: #1572B6;">CSS</h5>
                 </a>
             </td>
-        </tr>
-        <tr>
-            <td style="padding: 10px; text-align: center;">
+           <td style="padding: 10px; text-align: center;">
                 <a href="https://tailwindcss.com/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="100" height="100"/>
                     <h5 style="color: #06B6D4;">Tailwind CSS</h5>
                 </a>
             </td>
-            <td style="padding: 10px; text-align: center;">
+        </tr>
+        <tr>
+           <td style="padding: 10px; text-align: center;">
                 <a href="https://www.mongodb.com/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/>
                     <h5 style="color: #47A248;">MongoDB</h5>
