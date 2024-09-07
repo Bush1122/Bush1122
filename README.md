@@ -91,8 +91,6 @@
                     <h5 style="color: #06B6D4;">Tailwind CSS</h5>
                 </a>
             </td>
-        </tr>
-        <tr>
            <td style="padding: 10px; text-align: center;">
                 <a href="https://www.mongodb.com/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/>
@@ -105,8 +103,6 @@
                     <h5 style="color: #000;">Express.js</h5>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="padding: 10px; text-align: center;">
                 <a href="https://nodejs.org/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>
