@@ -51,12 +51,10 @@
                 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
                 </a>
-             <h5 style="color: #1572B6;text-align: center; ">CSS</h5>
            </td>
            <td style="padding: 10px; text-align: center;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
-                    <h5 style="color: #1572B6;">CSS</h5>
                 </a>
             </td>
             <td style="padding: 10px; text-align: center;">
@@ -67,59 +65,50 @@
             <td style="padding: 10px; text-align: center;">
                 <a href="https://github.com/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="100" height="100"/>
-                    <h5 style="color: #333;">GitHub</h5>
                 </a>
             </td>
             <td style="padding: 10px; text-align: center;">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
-                    <h5 style="color: #F0DB4F;">JavaScript</h5>
                 </a>
             </td>
            <td style="padding: 10px; text-align: center;">
                 <a href="https://redux.js.org/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="100" height="100"/>
-                    <h5 style="color: #764ABC;">Redux</h5>
                 </a>
             </td>
         </tr>
         <tr>
       <td style="padding: 10px; text-align: center;">
         <a href="https://getbootstrap.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
-            <h5 style="color: #7952B3;">Bootstrap</h5>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/> 
         </a>
     </td>
            
 <td style="padding: 10px; text-align: center;">
     <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="100" height="100"/>
-        <h5 style="color: #06B6D4;">Tailwind CSS</h5>
     </a>
 </td>
            <td style="padding: 10px; text-align: center;">
                 <a href="https://www.mongodb.com/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/>
-                    <h5 style="color: #47A248;">MongoDB</h5>
                 </a>
             </td>
             <td style="padding: 10px; text-align: center;">
                 <a href="https://expressjs.com/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/>
-                    <h5 style="color: #000;">Express.js</h5>
                 </a>
             </td>
             <td style="padding: 10px; text-align: center;">
                 <a href="https://nodejs.org/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>
-                    <h5 style="color: #43853D;">Node.js</h5>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>    
                 </a>
             </td>
           <td style="padding: 10px; text-align: center;">
         <a href="https://www.postman.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="100" height="100"/>
-            <h5 style="color: #FF6C37;">Postman</h5>
-        </a>
+           </a>
     </td>
         </tr>
     </table>
