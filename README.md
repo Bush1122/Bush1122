@@ -10,7 +10,7 @@
 <p>I’m Bushra Yousaf, a dedicated React Developer with a Bachelor's degree in Computer Science, passionate about crafting engaging and interactive web experiences. With experience in product design and adding to cart functionalities using Redux and Context API, I also have a strong foundation in backend development, including Express.js for building RESTful APIs, integrating with databases like MongoDB, and implementing authentication and user management systems. This combination of frontend and backend expertise allows me to develop full-stack web applications that are both user-friendly and robust.</p>
 
 <h4>Experience</h4>
-<p><strong>Internship at Ezitech</strong> (March 2024 - July 2024) 🏢</p>
+<p><strong>Frontend Developer Internship at Ezitech</strong> (March 2024 - July 2024) 🏢</p>
 <ul style="padding-left: 20px;">
     <li>🚀 Worked on product design and implementation of an add-to-cart feature using React.js</li>
     <li>💡 Utilized Redux and Context API for state management and efficient data flow</li>
@@ -23,7 +23,18 @@
 </ul>
 
 
-- 📫 How to reach me <a href="mailto:smileforbushi@gmail.com">smileforbushi@gmail.com</a>
+
+
+<p><strong>Backend Developer Internship at Ezitech</strong> (September 2024 - Present) 🏢</p>
+<ul style="padding-left: 20px;">
+    <li>⚙️ Implementing server-side logic using Node.js and Express.js to handle backend functionalities</li>
+    <li>🔗 Integrating RESTful APIs for seamless communication between the frontend and backend</li>
+    <li>💾 Designing and managing databases using MongoDB, ensuring efficient data storage and retrieval</li>
+    <li>🔒 Implementing authentication and authorization mechanisms for secure user management</li>
+    <li>🚀 Optimizing backend performance, focusing on scalability and reliability</li>
+    <li>🤝 Collaborating with frontend developers to ensure smooth integration of backend services</li>
+    <li>📚 Currently expanding my knowledge in database management, API development, and backend security</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
