@@ -12,11 +12,16 @@
 <h4>Experience</h4>
 <p><strong>Internship at Ezitech</strong> (March 2024 - July 2024) 🏢</p>
 <ul style="padding-left: 20px;">
-    <li>🚀 Worked on product design and implementation of an add-to-cart feature</li>
-    <li>💡 Utilized Redux and Context API for state management and data flow</li>
-    <li>🤝 Collaborated with team members to ensure seamless integration of features</li>
-    <li>📚 I’m currently learning <strong>React.js</strong></li>
+    <li>🚀 Worked on product design and implementation of an add-to-cart feature using React.js</li>
+    <li>💡 Utilized Redux and Context API for state management and efficient data flow</li>
+    <li>🎨 Developed responsive user interfaces with React, Bootstrap, and custom CSS</li>
+    <li>🛠️ Implemented reusable components, enhancing modularity and maintainability</li>
+    <li>🌐 Worked with RESTful APIs to fetch and manage data within the application</li>
+    <li>🤝 Collaborated with team members using Git for version control and code reviews</li>
+    <li>⚙️ Optimized frontend performance, focusing on load times and responsiveness</li>
+    <li>📚 I’m currently deepening my knowledge of <strong>React.js</strong> and modern frontend development techniques</li>
 </ul>
+
 
 - 📫 How to reach me <a href="mailto:smileforbushi@gmail.com">smileforbushi@gmail.com</a>
 
