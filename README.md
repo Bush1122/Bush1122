@@ -4,8 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bush1122&label=Profile%20views&color=0e75b6&style=flat" alt="bush1122" /> </p>
 
-<h4>About me</h4>
-<p>Bushra Yousaf is a dedicated React Developer with a Bachelor's degree in Computer Science, passionate about crafting engaging and interactive web experiences. With experience in product design and adding to cart functionalities using Redux and Context API, Bushra also has a strong foundation in backend development, including Express.js for building RESTful APIs, integrating with databases like MongoDB, and implementing authentication and user management systems. This combination of frontend and backend expertise allows Bushra to develop full-stack web applications that are both user-friendly and robust.</p>
+<h4 style="background: linear-gradient(to right, #007acc, red); -webkit-background-clip: text; color: transparent;">
+  About me
+</h4>
+<p>I’m Bushra Yousaf, a dedicated React Developer with a Bachelor's degree in Computer Science, passionate about crafting engaging and interactive web experiences. With experience in product design and adding to cart functionalities using Redux and Context API, I also have a strong foundation in backend development, including Express.js for building RESTful APIs, integrating with databases like MongoDB, and implementing authentication and user management systems. This combination of frontend and backend expertise allows me to develop full-stack web applications that are both user-friendly and robust.</p>
 
 <h4>Experience</h4>
 <p><strong>Internship at Ezitech</strong> (March 2024 - July 2024) 🏢</p>
